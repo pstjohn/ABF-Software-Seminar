@@ -1,0 +1,96 @@
+!!omap
+- reactions:
+  - !!omap
+    - id: EX_co2
+    - name: ' exchange'
+    - metabolites: !!omap
+      - co2: -1
+    - lower_bound: -1000.0
+    - upper_bound: 1000.0
+    - gene_reaction_rule: ''
+  - !!omap
+    - id: EX_glc
+    - name: D-Glucose exchange
+    - metabolites: !!omap
+      - glc: -1
+    - lower_bound: -10
+    - upper_bound: 1000.0
+    - gene_reaction_rule: ''
+  - !!omap
+    - id: GLCpts
+    - name: D-glucose transport via PEP:Pyr PTS
+    - metabolites: !!omap
+      - g6p: 1.0
+      - glc: -1.0
+      - pep: -1.0
+      - pyr: 1
+    - lower_bound: 0
+    - upper_bound: 1000
+    - gene_reaction_rule: ''
+  - !!omap
+    - id: atpm
+    - name: ''
+    - metabolites: !!omap
+      - adp: 1
+      - atp: -1
+    - lower_bound: 0.0
+    - upper_bound: 1000.0
+    - gene_reaction_rule: ''
+  - !!omap
+    - id: lwg
+    - name: ''
+    - metabolites: !!omap
+      - adp: -3
+      - atp: 3
+      - co2: 3
+      - pyr: -1
+    - lower_bound: 0.0
+    - upper_bound: 1000.0
+    - gene_reaction_rule: ''
+  - !!omap
+    - id: upg
+    - name: ''
+    - metabolites: !!omap
+      - g6p: -1
+      - pep: 1
+      - pyr: 1
+    - lower_bound: 0.0
+    - upper_bound: 1000.0
+    - gene_reaction_rule: ''
+- metabolites:
+  - !!omap
+    - id: adp
+    - name: ''
+    - compartment: ''
+  - !!omap
+    - id: atp
+    - name: ''
+    - compartment: ''
+  - !!omap
+    - id: co2
+    - name: ''
+    - compartment: ''
+  - !!omap
+    - id: g6p
+    - name: D-Glucose 6-phosphate
+    - compartment: ''
+    - formula: C6H11O9P
+  - !!omap
+    - id: glc
+    - name: D-Glucose
+    - compartment: ''
+    - formula: C6H12O6
+  - !!omap
+    - id: pep
+    - name: Phosphoenolpyruvate
+    - compartment: ''
+    - formula: C3H2O6P
+  - !!omap
+    - id: pyr
+    - name: Pyruvate
+    - compartment: ''
+    - formula: C3H3O3
+- genes: []
+- id: test
+- compartments: {}
+- version: '1'

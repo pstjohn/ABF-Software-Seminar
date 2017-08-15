@@ -1,0 +1,2770 @@
+{
+    "compartments": {
+        "Cytosol": "",
+        "Extra_organism": ""
+    },
+    "genes": [
+        {
+            "id": "b0008",
+            "name": ""
+        },
+        {
+            "id": "b0114",
+            "name": ""
+        },
+        {
+            "id": "b0115",
+            "name": ""
+        },
+        {
+            "id": "b0116",
+            "name": ""
+        },
+        {
+            "id": "b0118",
+            "name": ""
+        },
+        {
+            "id": "b0429",
+            "name": ""
+        },
+        {
+            "id": "b0430",
+            "name": ""
+        },
+        {
+            "id": "b0431",
+            "name": ""
+        },
+        {
+            "id": "b0432",
+            "name": ""
+        },
+        {
+            "id": "b0474",
+            "name": ""
+        },
+        {
+            "id": "b0621",
+            "name": ""
+        },
+        {
+            "id": "b0720",
+            "name": ""
+        },
+        {
+            "id": "b0721",
+            "name": ""
+        },
+        {
+            "id": "b0722",
+            "name": ""
+        },
+        {
+            "id": "b0723",
+            "name": ""
+        },
+        {
+            "id": "b0724",
+            "name": ""
+        },
+        {
+            "id": "b0726",
+            "name": ""
+        },
+        {
+            "id": "b0727",
+            "name": ""
+        },
+        {
+            "id": "b0728",
+            "name": ""
+        },
+        {
+            "id": "b0729",
+            "name": ""
+        },
+        {
+            "id": "b0755",
+            "name": ""
+        },
+        {
+            "id": "b0767",
+            "name": ""
+        },
+        {
+            "id": "b0904",
+            "name": ""
+        },
+        {
+            "id": "b1101",
+            "name": ""
+        },
+        {
+            "id": "b1136",
+            "name": ""
+        },
+        {
+            "id": "b1241",
+            "name": ""
+        },
+        {
+            "id": "b1276",
+            "name": ""
+        },
+        {
+            "id": "b1380",
+            "name": ""
+        },
+        {
+            "id": "b1416",
+            "name": ""
+        },
+        {
+            "id": "b1417",
+            "name": ""
+        },
+        {
+            "id": "b1479",
+            "name": ""
+        },
+        {
+            "id": "b1602",
+            "name": ""
+        },
+        {
+            "id": "b1603",
+            "name": ""
+        },
+        {
+            "id": "b1611",
+            "name": ""
+        },
+        {
+            "id": "b1612",
+            "name": ""
+        },
+        {
+            "id": "b1676",
+            "name": ""
+        },
+        {
+            "id": "b1702",
+            "name": ""
+        },
+        {
+            "id": "b1723",
+            "name": ""
+        },
+        {
+            "id": "b1779",
+            "name": ""
+        },
+        {
+            "id": "b1852",
+            "name": ""
+        },
+        {
+            "id": "b1854",
+            "name": ""
+        },
+        {
+            "id": "b2029",
+            "name": ""
+        },
+        {
+            "id": "b2276",
+            "name": ""
+        },
+        {
+            "id": "b2277",
+            "name": ""
+        },
+        {
+            "id": "b2278",
+            "name": ""
+        },
+        {
+            "id": "b2279",
+            "name": ""
+        },
+        {
+            "id": "b2280",
+            "name": ""
+        },
+        {
+            "id": "b2281",
+            "name": ""
+        },
+        {
+            "id": "b2282",
+            "name": ""
+        },
+        {
+            "id": "b2283",
+            "name": ""
+        },
+        {
+            "id": "b2284",
+            "name": ""
+        },
+        {
+            "id": "b2285",
+            "name": ""
+        },
+        {
+            "id": "b2286",
+            "name": ""
+        },
+        {
+            "id": "b2287",
+            "name": ""
+        },
+        {
+            "id": "b2288",
+            "name": ""
+        },
+        {
+            "id": "b2296",
+            "name": ""
+        },
+        {
+            "id": "b2297",
+            "name": ""
+        },
+        {
+            "id": "b2415",
+            "name": ""
+        },
+        {
+            "id": "b2416",
+            "name": ""
+        },
+        {
+            "id": "b2417",
+            "name": ""
+        },
+        {
+            "id": "b2463",
+            "name": ""
+        },
+        {
+            "id": "b2465",
+            "name": ""
+        },
+        {
+            "id": "b2587",
+            "name": ""
+        },
+        {
+            "id": "b2779",
+            "name": ""
+        },
+        {
+            "id": "b2914",
+            "name": ""
+        },
+        {
+            "id": "b2925",
+            "name": ""
+        },
+        {
+            "id": "b2926",
+            "name": ""
+        },
+        {
+            "id": "b2935",
+            "name": ""
+        },
+        {
+            "id": "b2975",
+            "name": ""
+        },
+        {
+            "id": "b2976",
+            "name": ""
+        },
+        {
+            "id": "b3117",
+            "name": ""
+        },
+        {
+            "id": "b3236",
+            "name": ""
+        },
+        {
+            "id": "b3386",
+            "name": ""
+        },
+        {
+            "id": "b3403",
+            "name": ""
+        },
+        {
+            "id": "b3528",
+            "name": ""
+        },
+        {
+            "id": "b3603",
+            "name": ""
+        },
+        {
+            "id": "b3731",
+            "name": ""
+        },
+        {
+            "id": "b3732",
+            "name": ""
+        },
+        {
+            "id": "b3733",
+            "name": ""
+        },
+        {
+            "id": "b3734",
+            "name": ""
+        },
+        {
+            "id": "b3735",
+            "name": ""
+        },
+        {
+            "id": "b3736",
+            "name": ""
+        },
+        {
+            "id": "b3737",
+            "name": ""
+        },
+        {
+            "id": "b3738",
+            "name": ""
+        },
+        {
+            "id": "b3739",
+            "name": ""
+        },
+        {
+            "id": "b3916",
+            "name": ""
+        },
+        {
+            "id": "b3919",
+            "name": ""
+        },
+        {
+            "id": "b3951",
+            "name": ""
+        },
+        {
+            "id": "b3952",
+            "name": ""
+        },
+        {
+            "id": "b3956",
+            "name": ""
+        },
+        {
+            "id": "b4014",
+            "name": ""
+        },
+        {
+            "id": "b4015",
+            "name": ""
+        },
+        {
+            "id": "b4025",
+            "name": ""
+        },
+        {
+            "id": "b4090",
+            "name": ""
+        },
+        {
+            "id": "b4122",
+            "name": ""
+        },
+        {
+            "id": "b4151",
+            "name": ""
+        },
+        {
+            "id": "b4152",
+            "name": ""
+        },
+        {
+            "id": "b4153",
+            "name": ""
+        },
+        {
+            "id": "b4154",
+            "name": ""
+        },
+        {
+            "id": "b4232",
+            "name": ""
+        },
+        {
+            "id": "b4395",
+            "name": ""
+        }
+    ],
+    "id": "Ec_core",
+    "metabolites": [
+        {
+            "charge": -4,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "13dpg_c",
+            "name": "M_3_Phospho_D_glyceroyl_phosphate_C3H4O10P2"
+        },
+        {
+            "charge": -3,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "2pg_c",
+            "name": "M_D_Glycerate_2_phosphate_C3H4O7P"
+        },
+        {
+            "charge": -3,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "3pg_c",
+            "name": "M_3_Phospho_D_glycerate_C3H4O7P"
+        },
+        {
+            "charge": -3,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "6pgc_c",
+            "name": "M_6_Phospho_D_gluconate_C6H10O10P"
+        },
+        {
+            "charge": -2,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "6pgl_c",
+            "name": "M_6_phospho_D_glucono_1_5_lactone_C6H9O9P"
+        },
+        {
+            "charge": -1,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "ac_c",
+            "name": "M_Acetate_C2H3O2"
+        },
+        {
+            "charge": -1,
+            "compartment": "Extra_organism",
+            "formula": "",
+            "id": "ac_e",
+            "name": "M_Acetate_C2H3O2"
+        },
+        {
+            "charge": -4,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "accoa_c",
+            "name": "M_Acetyl_CoA_C23H34N7O17P3S"
+        },
+        {
+            "charge": -2,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "actp_c",
+            "name": "M_Acetyl_phosphate_C2H3O5P"
+        },
+        {
+            "charge": -3,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "adp_c",
+            "name": "M_ADP_C10H12N5O10P2"
+        },
+        {
+            "charge": -2,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "akg_c",
+            "name": "M_2_Oxoglutarate_C5H4O5"
+        },
+        {
+            "charge": -2,
+            "compartment": "Extra_organism",
+            "formula": "",
+            "id": "akg_e",
+            "name": "M_2_Oxoglutarate_C5H4O5"
+        },
+        {
+            "charge": -2,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "amp_c",
+            "name": "M_AMP_C10H12N5O7P"
+        },
+        {
+            "charge": -4,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "atp_c",
+            "name": "M_ATP_C10H12N5O13P3"
+        },
+        {
+            "charge": -3,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "cit_c",
+            "name": "M_Citrate_C6H5O7"
+        },
+        {
+            "charge": 0,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "co2_c",
+            "name": "M_CO2_CO2"
+        },
+        {
+            "charge": 0,
+            "compartment": "Extra_organism",
+            "formula": "",
+            "id": "co2_e",
+            "name": "M_CO2_CO2"
+        },
+        {
+            "charge": -4,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "coa_c",
+            "name": "M_Coenzyme_A_C21H32N7O16P3S"
+        },
+        {
+            "charge": -2,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "dhap_c",
+            "name": "M_Dihydroxyacetone_phosphate_C3H5O6P"
+        },
+        {
+            "charge": -2,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "e4p_c",
+            "name": "M_D_Erythrose_4_phosphate_C4H7O7P"
+        },
+        {
+            "charge": 0,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "etoh_c",
+            "name": "M_Ethanol_C2H6O"
+        },
+        {
+            "charge": 0,
+            "compartment": "Extra_organism",
+            "formula": "",
+            "id": "etoh_e",
+            "name": "M_Ethanol_C2H6O"
+        },
+        {
+            "charge": -2,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "f6p_c",
+            "name": "M_D_Fructose_6_phosphate_C6H11O9P"
+        },
+        {
+            "charge": -2,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "fad_c",
+            "name": "M_Flavin_adenine_dinucleotide_oxidized_C27H31N9O15P2"
+        },
+        {
+            "charge": -2,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "fadh2_c",
+            "name": "M_Flavin_adenine_dinucleotide_reduced_C27H33N9O15P2"
+        },
+        {
+            "charge": -4,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "fdp_c",
+            "name": "M_D_Fructose_1_6_bisphosphate_C6H10O12P2"
+        },
+        {
+            "charge": -1,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "for_c",
+            "name": "M_Formate_CH1O2"
+        },
+        {
+            "charge": -1,
+            "compartment": "Extra_organism",
+            "formula": "",
+            "id": "for_e",
+            "name": "M_Formate_CH1O2"
+        },
+        {
+            "charge": -2,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "fum_c",
+            "name": "M_Fumarate_C4H2O4"
+        },
+        {
+            "charge": -2,
+            "compartment": "Extra_organism",
+            "formula": "",
+            "id": "fum_e",
+            "name": "M_Fumarate_C4H2O4"
+        },
+        {
+            "charge": -2,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "g3p_c",
+            "name": "M_Glyceraldehyde_3_phosphate_C3H5O6P"
+        },
+        {
+            "charge": -2,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "g6p_c",
+            "name": "M_D_Glucose_6_phosphate_C6H11O9P"
+        },
+        {
+            "charge": 0,
+            "compartment": "Extra_organism",
+            "formula": "",
+            "id": "glc_D_e",
+            "name": "M_D_Glucose_C6H12O6"
+        },
+        {
+            "charge": -1,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "glx_c",
+            "name": "M_Glyoxylate_C2H1O3"
+        },
+        {
+            "charge": 0,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "h2o_c",
+            "name": "M_H2O_H2O"
+        },
+        {
+            "charge": 0,
+            "compartment": "Extra_organism",
+            "formula": "",
+            "id": "h2o_e",
+            "name": "M_H2O_H2O"
+        },
+        {
+            "charge": 1,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "h_c",
+            "name": "M_H_H"
+        },
+        {
+            "charge": 1,
+            "compartment": "Extra_organism",
+            "formula": "",
+            "id": "h_e",
+            "name": "M_H_H"
+        },
+        {
+            "charge": -3,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "icit_c",
+            "name": "M_Isocitrate_C6H5O7"
+        },
+        {
+            "charge": -1,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "lac_D_c",
+            "name": "M_D_Lactate_C3H5O3"
+        },
+        {
+            "charge": -1,
+            "compartment": "Extra_organism",
+            "formula": "",
+            "id": "lac_D_e",
+            "name": "M_D_Lactate_C3H5O3"
+        },
+        {
+            "charge": -2,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "mal_L_c",
+            "name": "M_L_Malate_C4H4O5"
+        },
+        {
+            "charge": -1,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "nad_c",
+            "name": "M_Nicotinamide_adenine_dinucleotide_C21H26N7O14P2"
+        },
+        {
+            "charge": -2,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "nadh_c",
+            "name": "M_Nicotinamide_adenine_dinucleotide___reduced_C21H27N7O14P2"
+        },
+        {
+            "charge": -3,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "nadp_c",
+            "name": "M_Nicotinamide_adenine_dinucleotide_phosphate_C21H25N7O17P3"
+        },
+        {
+            "charge": -4,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "nadph_c",
+            "name": "M_Nicotinamide_adenine_dinucleotide_phosphate___reduced_C21H26N7O17P3"
+        },
+        {
+            "charge": 0,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "o2_c",
+            "name": "M_O2_O2"
+        },
+        {
+            "charge": 0,
+            "compartment": "Extra_organism",
+            "formula": "",
+            "id": "o2_e",
+            "name": "M_O2_O2"
+        },
+        {
+            "charge": -2,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "oaa_c",
+            "name": "M_Oxaloacetate_C4H2O5"
+        },
+        {
+            "charge": -3,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "pep_c",
+            "name": "M_Phosphoenolpyruvate_C3H2O6P"
+        },
+        {
+            "charge": -2,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "pi_c",
+            "name": "M_Phosphate_HO4P"
+        },
+        {
+            "charge": -2,
+            "compartment": "Extra_organism",
+            "formula": "",
+            "id": "pi_e",
+            "name": "M_Phosphate_HO4P"
+        },
+        {
+            "charge": -1,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "pyr_c",
+            "name": "M_Pyruvate_C3H3O3"
+        },
+        {
+            "charge": -1,
+            "compartment": "Extra_organism",
+            "formula": "",
+            "id": "pyr_e",
+            "name": "M_Pyruvate_C3H3O3"
+        },
+        {
+            "charge": 0,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "q8_c",
+            "name": "M_Ubiquinone_8_C49H74O4"
+        },
+        {
+            "charge": 0,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "q8h2_c",
+            "name": "M_Ubiquinol_8_C49H76O4"
+        },
+        {
+            "charge": -2,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "r5p_c",
+            "name": "M_alpha_D_Ribose_5_phosphate_C5H9O8P"
+        },
+        {
+            "charge": -2,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "ru5p_D_c",
+            "name": "M_D_Ribulose_5_phosphate_C5H9O8P"
+        },
+        {
+            "charge": -2,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "s7p_c",
+            "name": "M_Sedoheptulose_7_phosphate_C7H13O10P"
+        },
+        {
+            "charge": -2,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "succ_c",
+            "name": "M_Succinate_C4H4O4"
+        },
+        {
+            "charge": -2,
+            "compartment": "Extra_organism",
+            "formula": "",
+            "id": "succ_e",
+            "name": "M_Succinate_C4H4O4"
+        },
+        {
+            "charge": -5,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "succoa_c",
+            "name": "M_Succinyl_CoA_C25H35N7O19P3S"
+        },
+        {
+            "charge": -2,
+            "compartment": "Cytosol",
+            "formula": "",
+            "id": "xu5p_D_c",
+            "name": "M_D_Xylulose_5_phosphate_C5H9O8P"
+        }
+    ],
+    "reactions": [
+        {
+            "gene_reaction_rule": "b2296",
+            "id": "ACKr",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "ac_c": -1.0,
+                "actp_c": 1.0,
+                "adp_c": 1.0,
+                "atp_c": -1.0
+            },
+            "name": "R_acetate_kinase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "b2296"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "AckA"
+                ],
+                "PROTEIN CLASS": [
+                    "2.7.2.1"
+                ]
+            },
+            "subsystem": "S_Pyruvate_Metabolism",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "( b0118  or  b1276 )",
+            "id": "ACONT",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "cit_c": -1.0,
+                "icit_c": 1.0
+            },
+            "name": "R_aconitase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "( b0118  or  b1276 )"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "( AcnB ) or ( AcnA )"
+                ],
+                "PROTEIN CLASS": [
+                    "4.2.1.3"
+                ]
+            },
+            "subsystem": "S_Citric_Acid_Cycle",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "",
+            "id": "ACt2r",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "ac_c": 1.0,
+                "ac_e": -1.0,
+                "h_c": 1.0,
+                "h_e": -1.0
+            },
+            "name": "R_acetate_reversible_transport_via_proton_symport",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "subsystem": "S_",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "b1241",
+            "id": "ADHEr",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "accoa_c": -1.0,
+                "coa_c": 1.0,
+                "etoh_c": 1.0,
+                "h_c": -2.0,
+                "nad_c": 2.0,
+                "nadh_c": -2.0
+            },
+            "name": "R_Acetaldehyde_dehydrogenase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "b1241"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "AdhE"
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "subsystem": "S_",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "b0474",
+            "id": "ADK1",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "adp_c": 2.0,
+                "amp_c": -1.0,
+                "atp_c": -1.0
+            },
+            "name": "R_adenylate_kinase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "b0474"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "Adk"
+                ],
+                "PROTEIN CLASS": [
+                    "2.7.4.3"
+                ]
+            },
+            "subsystem": "S_Oxidative_Phosphorylation",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "( b0116  and  b0726  and  b0727 )",
+            "id": "AKGDH",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "akg_c": -1.0,
+                "co2_c": 1.0,
+                "coa_c": -1.0,
+                "nad_c": -1.0,
+                "nadh_c": 1.0,
+                "succoa_c": 1.0
+            },
+            "name": "R_2_Oxogluterate_dehydrogenase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "( b0116  and  b0726  and  b0727 )"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "SucA"
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "subsystem": "S_Citric_Acid_Cycle",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "b2587",
+            "id": "AKGt2r",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "akg_c": 1.0,
+                "akg_e": -1.0,
+                "h_c": 1.0,
+                "h_e": -1.0
+            },
+            "name": "R_2_oxoglutarate_reversible_transport_via_symport",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "b2587"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "KgtPec"
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "subsystem": "S_",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "",
+            "id": "ATPM",
+            "lower_bound": 7.6,
+            "metabolites": {
+                "adp_c": 1.0,
+                "atp_c": -1.0,
+                "h2o_c": -1.0,
+                "h_c": 1.0,
+                "pi_c": 1.0
+            },
+            "name": "R_ATP_maintenance_requirement",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "subsystem": "S_Oxidative_Phosphorylation",
+            "upper_bound": 7.6
+        },
+        {
+            "gene_reaction_rule": "( ( b3736  and  b3737  and  b3738 )  and  ( b3731  and  b3732  and  b3733  and  b3734  and  b3735 )  and  b3739 )",
+            "id": "ATPS4r",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "adp_c": -1.0,
+                "atp_c": 1.0,
+                "h2o_c": 1.0,
+                "h_c": 3.0,
+                "h_e": -4.0,
+                "pi_c": -1.0
+            },
+            "name": "R_ATP_synthase__four_protons_for_one_ATP_",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "( ( b3736  and  b3737  and  b3738 )  and  ( b3731  and  b3732  and  b3733  and  b3734  and  b3735 )  and  b3739 )"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "( AtpF0 and AtpF1 and AtpI )"
+                ],
+                "PROTEIN CLASS": [
+                    "3.6.3.14"
+                ]
+            },
+            "subsystem": "S_Oxidative_Phosphorylation",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "",
+            "id": "Biomass_Ecoli_core_N__w_GAM_",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "3pg_c": -1.496,
+                "accoa_c": -3.7478,
+                "adp_c": 55.703,
+                "akg_c": -1.0789,
+                "atp_c": -55.703,
+                "coa_c": 3.7478,
+                "e4p_c": -0.361,
+                "f6p_c": -0.0709,
+                "g3p_c": -0.129,
+                "g6p_c": -0.205,
+                "h2o_c": -55.703,
+                "h_c": 41.025,
+                "nad_c": -3.547,
+                "nadh_c": 3.547,
+                "nadp_c": 18.225,
+                "nadph_c": -18.225,
+                "oaa_c": -1.7867,
+                "pep_c": -0.5191,
+                "pi_c": 55.703,
+                "pyr_c": -2.8328,
+                "r5p_c": -0.8977
+            },
+            "name": "R_core_E_coli_biomass_equation__Neidhardt_Based_with_GAM_",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "objective_coefficient": 1.0,
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "",
+            "id": "CO2t",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "co2_c": 1.0,
+                "co2_e": -1.0
+            },
+            "name": "R_CO2_transporter_via_diffusion",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "subsystem": "S_",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "b0720",
+            "id": "CS",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "accoa_c": -1.0,
+                "cit_c": 1.0,
+                "coa_c": 1.0,
+                "h2o_c": -1.0,
+                "h_c": 1.0,
+                "oaa_c": -1.0
+            },
+            "name": "R_citrate_synthase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "b0720"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "GltA"
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "subsystem": "S_Citric_Acid_Cycle",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "( b0429  and  b0430  and  b0431  and  b0432 )",
+            "id": "CYTBD",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "h2o_c": 1.0,
+                "h_c": -2.0,
+                "h_e": 2.0,
+                "o2_c": -0.5,
+                "q8_c": 1.0,
+                "q8h2_c": -1.0
+            },
+            "name": "R_cytochrome_oxidase_bd__ubiquinol_8_2_protons_",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "( b0429  and  b0430  and  b0431  and  b0432 )"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "CyoA"
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "subsystem": "S_Oxidative_Phosphorylation",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "( b2975  or  b3603 )",
+            "id": "D_LACt2",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "h_c": 1.0,
+                "h_e": -1.0,
+                "lac_D_c": 1.0,
+                "lac_D_e": -1.0
+            },
+            "name": "R_D_lactate_transport_via_proton_symport",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "( b2975  or  b3603 )"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "( GlcA ) or ( LldP )"
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "subsystem": "S_Transport__Extracellular",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "b2779",
+            "id": "ENO",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "2pg_c": -1.0,
+                "h2o_c": 1.0,
+                "pep_c": 1.0
+            },
+            "name": "R_enolase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "b2779"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "Eno"
+                ],
+                "PROTEIN CLASS": [
+                    "4.2.1.11"
+                ]
+            },
+            "subsystem": "S_GlycolysisGluconeogenesis",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "",
+            "id": "ETOHt2r",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "etoh_c": 1.0,
+                "etoh_e": -1.0,
+                "h_c": 1.0,
+                "h_e": -1.0
+            },
+            "name": "R_ethanol_reversible_transport_via_proton_symport",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "subsystem": "S_",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "",
+            "id": "EX_ac_e_",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "ac_e": -1.0
+            },
+            "name": "R_Acetate_exchange",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "subsystem": "S_",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "",
+            "id": "EX_akg_e_",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "akg_e": -1.0
+            },
+            "name": "R_2_Oxoglutarate_exchange",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "subsystem": "S_",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "",
+            "id": "EX_co2_e_",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "co2_e": -1.0
+            },
+            "name": "R_CO2_exchange",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "subsystem": "S_",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "",
+            "id": "EX_etoh_e_",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "etoh_e": -1.0
+            },
+            "name": "R_Ethanol_exchange",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "subsystem": "S_",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "",
+            "id": "EX_for_e_",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "for_e": -1.0
+            },
+            "name": "R_Formate_exchange",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "subsystem": "S_",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "",
+            "id": "EX_fum_e_",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "fum_e": -1.0
+            },
+            "name": "R_Fumarate_exchange",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "subsystem": "S_",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "",
+            "id": "EX_glc_e_",
+            "lower_bound": -10.0,
+            "metabolites": {
+                "glc_D_e": -1.0
+            },
+            "name": "R_D_Glucose_exchange",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "subsystem": "S_",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "",
+            "id": "EX_h2o_e_",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "h2o_e": -1.0
+            },
+            "name": "R_H2O_exchange",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "subsystem": "S_",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "",
+            "id": "EX_h_e_",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "h_e": -1.0
+            },
+            "name": "R_H_exchange",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "subsystem": "S_",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "",
+            "id": "EX_lac_D_e_",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "lac_D_e": -1.0
+            },
+            "name": "R_D_lactate_exchange",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "subsystem": "S_",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "",
+            "id": "EX_o2_e_",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "o2_e": -1.0
+            },
+            "name": "R_O2_exchange",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "subsystem": "S_",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "",
+            "id": "EX_pi_e_",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "pi_e": -1.0
+            },
+            "name": "R_Phosphate_exchange",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "subsystem": "S_",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "",
+            "id": "EX_pyr_e_",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "pyr_e": -1.0
+            },
+            "name": "R_Pyruvate_exchange",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "subsystem": "S_",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "",
+            "id": "EX_succ_e_",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "succ_e": -1.0
+            },
+            "name": "R_Succinate_exchange",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "subsystem": "S_",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "b2925",
+            "id": "FBA",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "dhap_c": 1.0,
+                "fdp_c": -1.0,
+                "g3p_c": 1.0
+            },
+            "name": "R_fructose_bisphosphate_aldolase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "b2925"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "FbaA"
+                ],
+                "PROTEIN CLASS": [
+                    "4.1.2.13"
+                ]
+            },
+            "subsystem": "S_GlycolysisGluconeogenesis",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "b4232",
+            "id": "FBP",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "f6p_c": 1.0,
+                "fdp_c": -1.0,
+                "h2o_c": -1.0,
+                "pi_c": 1.0
+            },
+            "name": "R_fructose_bisphosphatase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "b4232"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "Fbp"
+                ],
+                "PROTEIN CLASS": [
+                    "3.1.3.11"
+                ]
+            },
+            "subsystem": "S_GlycolysisGluconeogenesis",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "b0904",
+            "id": "FORt",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "for_c": 1.0,
+                "for_e": -1.0
+            },
+            "name": "R_formate_transport_via_diffusion",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "b0904"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "FocA"
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "subsystem": "S_Transport__Extracellular",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "( ( b4151  and  b4152  and  b4153  and  b4154 )  or  b3117 )",
+            "id": "FRD",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "fad_c": 1.0,
+                "fadh2_c": -1.0,
+                "fum_c": -1.0,
+                "succ_c": 1.0
+            },
+            "name": "R_fumarate_reductase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "( ( b4151  and  b4152  and  b4153  and  b4154 )  or  b3117 )"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "Frd"
+                ],
+                "PROTEIN CLASS": [
+                    "1.3.99.1"
+                ]
+            },
+            "subsystem": "S_Citric_Acid_Cycle",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "( b1612  or  b4122  or  b1611 )",
+            "id": "FUM",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "fum_c": -1.0,
+                "h2o_c": -1.0,
+                "mal_L_c": 1.0
+            },
+            "name": "R_fumarase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "( b1612  or  b4122  or  b1611 )"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "( FumA ) or ( FumB ) or ( FumCec )"
+                ],
+                "PROTEIN CLASS": [
+                    "4.2.1.2"
+                ]
+            },
+            "subsystem": "S_Citric_Acid_Cycle",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "b3528",
+            "id": "FUMt2_2",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "fum_c": 1.0,
+                "fum_e": -1.0,
+                "h_c": 2.0,
+                "h_e": -2.0
+            },
+            "name": "R_Fumarate_transport_via_proton_symport__2_H_",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "b3528"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "DctA"
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "subsystem": "S_",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "b1852",
+            "id": "G6PDH2r",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "6pgl_c": 1.0,
+                "g6p_c": -1.0,
+                "h_c": 1.0,
+                "nadp_c": -1.0,
+                "nadph_c": 1.0
+            },
+            "name": "R_glucose_6_phosphate_dehydrogenase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "b1852"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "Zwf"
+                ],
+                "PROTEIN CLASS": [
+                    "1.1.1.49"
+                ]
+            },
+            "subsystem": "S_Pentose_Phosphate_Pathway",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "( b1779  or  ( b1416  and  b1417 ) )",
+            "id": "GAPD",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "13dpg_c": 1.0,
+                "g3p_c": -1.0,
+                "h_c": 1.0,
+                "nad_c": -1.0,
+                "nadh_c": 1.0,
+                "pi_c": -1.0
+            },
+            "name": "R_glyceraldehyde_3_phosphate_dehydrogenase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "( b1779  or  ( b1416  and  b1417 ) )"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "( GapA ) or ( GapC )"
+                ],
+                "PROTEIN CLASS": [
+                    "1.2.1.12"
+                ]
+            },
+            "subsystem": "S_GlycolysisGluconeogenesis",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "( b1101  and  b2415  and  b2416  and  b2417 )",
+            "id": "GLCpts",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "g6p_c": 1.0,
+                "glc_D_e": -1.0,
+                "pep_c": -1.0,
+                "pyr_c": 1.0
+            },
+            "name": "R_D_glucose_transport_via_PEPPyr_PTS",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "( b1101  and  b2415  and  b2416  and  b2417 )"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "Pts"
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "subsystem": "S_Transport__Extracellular",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "b2029",
+            "id": "GND",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "6pgc_c": -1.0,
+                "co2_c": 1.0,
+                "nadp_c": -1.0,
+                "nadph_c": 1.0,
+                "ru5p_D_c": 1.0
+            },
+            "name": "R_phosphogluconate_dehydrogenase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "b2029"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "Gnd"
+                ],
+                "PROTEIN CLASS": [
+                    "1.1.1.44"
+                ]
+            },
+            "subsystem": "S_Pentose_Phosphate_Pathway",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "",
+            "id": "H2Ot",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "h2o_c": 1.0,
+                "h2o_e": -1.0
+            },
+            "name": "R_H2O_transport_via_diffusion",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "subsystem": "S_Transport__Extracellular",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "b1136",
+            "id": "ICDHyr",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "akg_c": 1.0,
+                "co2_c": 1.0,
+                "icit_c": -1.0,
+                "nadp_c": -1.0,
+                "nadph_c": 1.0
+            },
+            "name": "R_isocitrate_dehydrogenase__NADP_",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "b1136"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "Icd"
+                ],
+                "PROTEIN CLASS": [
+                    "1.1.1.42"
+                ]
+            },
+            "subsystem": "S_Citric_Acid_Cycle",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "b4015",
+            "id": "ICL",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "glx_c": 1.0,
+                "icit_c": -1.0,
+                "succ_c": 1.0
+            },
+            "name": "R_Isocitrate_lyase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "b4015"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "AceA"
+                ],
+                "PROTEIN CLASS": [
+                    "4.1.3.1"
+                ]
+            },
+            "subsystem": "S_Anaplerotic_reactions",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "b1380",
+            "id": "LDH_D",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "h_c": 1.0,
+                "lac_D_c": -1.0,
+                "nad_c": -1.0,
+                "nadh_c": 1.0,
+                "pyr_c": 1.0
+            },
+            "name": "R_D_lactate_dehydrogenase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "b1380"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "Ldh"
+                ],
+                "PROTEIN CLASS": [
+                    "1.1.1.28"
+                ]
+            },
+            "subsystem": "S_",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "( b4014  or  b2976 )",
+            "id": "MALS",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "accoa_c": -1.0,
+                "coa_c": 1.0,
+                "glx_c": -1.0,
+                "h2o_c": -1.0,
+                "h_c": 1.0,
+                "mal_L_c": 1.0
+            },
+            "name": "R_malate_synthase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "( b4014  or  b2976 )"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "( AceB ) or ( GlcB )"
+                ],
+                "PROTEIN CLASS": [
+                    "4.1.3.2"
+                ]
+            },
+            "subsystem": "S_Anaplerotic_reactions",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "b3236",
+            "id": "MDH",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "h_c": 1.0,
+                "mal_L_c": -1.0,
+                "nad_c": -1.0,
+                "nadh_c": 1.0,
+                "oaa_c": 1.0
+            },
+            "name": "R_malate_dehydrogenase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "b3236"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "Mdh"
+                ],
+                "PROTEIN CLASS": [
+                    "1.1.1.37"
+                ]
+            },
+            "subsystem": "S_Citric_Acid_Cycle",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "b1479",
+            "id": "ME1",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "co2_c": 1.0,
+                "mal_L_c": -1.0,
+                "nad_c": -1.0,
+                "nadh_c": 1.0,
+                "pyr_c": 1.0
+            },
+            "name": "R_malic_enzyme__NAD_",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "b1479"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "Sfc"
+                ],
+                "PROTEIN CLASS": [
+                    "1.1.1.38"
+                ]
+            },
+            "subsystem": "S_Anaplerotic_reactions",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "b2463",
+            "id": "ME2",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "co2_c": 1.0,
+                "mal_L_c": -1.0,
+                "nadp_c": -1.0,
+                "nadph_c": 1.0,
+                "pyr_c": 1.0
+            },
+            "name": "R_malic_enzyme__NADP_",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "b2463"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "Mae"
+                ],
+                "PROTEIN CLASS": [
+                    "1.1.1.40"
+                ]
+            },
+            "subsystem": "S_Anaplerotic_reactions",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "( b2276  and  b2277  and  b2278  and  b2279  and  b2280  and  b2281  and  b2282  and  b2283  and  b2284  and  b2285  and  b2286  and  b2287  and  b2288 )",
+            "id": "NADH11",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "h_c": -3.0,
+                "h_e": 2.0,
+                "nad_c": 1.0,
+                "nadh_c": -1.0,
+                "q8_c": -1.0,
+                "q8h2_c": 1.0
+            },
+            "name": "R_NADH_dehydrogenase__ubiquinone_8__2_protons_",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "( b2276  and  b2277  and  b2278  and  b2279  and  b2280  and  b2281  and  b2282  and  b2283  and  b2284  and  b2285  and  b2286  and  b2287  and  b2288 )"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "Nuo"
+                ],
+                "PROTEIN CLASS": [
+                    "1.6.5.3"
+                ]
+            },
+            "subsystem": "S_Oxidative_Phosphorylation",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "( b1602  and  b1603 )",
+            "id": "NADTRHD",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "nad_c": -1.0,
+                "nadh_c": 1.0,
+                "nadp_c": 1.0,
+                "nadph_c": -1.0
+            },
+            "name": "R_NAD_transhydrogenase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "( b1602  and  b1603 )"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "Pnt"
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "subsystem": "S_Oxidative_Phosphorylation",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "",
+            "id": "O2t",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "o2_c": 1.0,
+                "o2_e": -1.0
+            },
+            "name": "R_o2_transport__diffusion_",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "subsystem": "S_Transport__Extracellular",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "( b0114  and  b0115  and  b0116 )",
+            "id": "PDH",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "accoa_c": 1.0,
+                "co2_c": 1.0,
+                "coa_c": -1.0,
+                "nad_c": -1.0,
+                "nadh_c": 1.0,
+                "pyr_c": -1.0
+            },
+            "name": "R_pyruvate_dehydrogenase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "( b0114  and  b0115  and  b0116 )"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "AceE"
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "subsystem": "S_GlycolysisGluconeogenesis",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "( b3916  or  b1723 )",
+            "id": "PFK",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "adp_c": 1.0,
+                "atp_c": -1.0,
+                "f6p_c": -1.0,
+                "fdp_c": 1.0,
+                "h_c": 1.0
+            },
+            "name": "R_phosphofructokinase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "( b3916  or  b1723 )"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "( PfkA ) or ( PfkB )"
+                ],
+                "PROTEIN CLASS": [
+                    "2.7.1.11"
+                ]
+            },
+            "subsystem": "S_GlycolysisGluconeogenesis",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "( b3951  and  b3952 )",
+            "id": "PFL",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "accoa_c": 1.0,
+                "coa_c": -1.0,
+                "for_c": 1.0,
+                "pyr_c": -1.0
+            },
+            "name": "R_pyruvate_formate_lyase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "( b3951  and  b3952 )"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "PflC"
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "subsystem": "S_",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "b4025",
+            "id": "PGI",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "f6p_c": 1.0,
+                "g6p_c": -1.0
+            },
+            "name": "R_glucose_6_phosphate_isomerase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "b4025"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "Pgi"
+                ],
+                "PROTEIN CLASS": [
+                    "5.3.1.9"
+                ]
+            },
+            "subsystem": "S_GlycolysisGluconeogenesis",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "b2926",
+            "id": "PGK",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "13dpg_c": 1.0,
+                "3pg_c": -1.0,
+                "adp_c": 1.0,
+                "atp_c": -1.0
+            },
+            "name": "R_phosphoglycerate_kinase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "b2926"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "Pgk"
+                ],
+                "PROTEIN CLASS": [
+                    "2.7.2.3"
+                ]
+            },
+            "subsystem": "S_GlycolysisGluconeogenesis",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "b0767",
+            "id": "PGL",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "6pgc_c": 1.0,
+                "6pgl_c": -1.0,
+                "h2o_c": -1.0,
+                "h_c": 1.0
+            },
+            "name": "R_6_phosphogluconolactonase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "b0767"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "Pgl"
+                ],
+                "PROTEIN CLASS": [
+                    "3.1.1.31"
+                ]
+            },
+            "subsystem": "S_Pentose_Phosphate_Pathway",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "( b4395  or  b0755 )",
+            "id": "PGM",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "2pg_c": -1.0,
+                "3pg_c": 1.0
+            },
+            "name": "R_phosphoglycerate_mutase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "( b4395  or  b0755 )"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "( GpmB ) or ( GpmA )"
+                ],
+                "PROTEIN CLASS": [
+                    "5.4.2.1"
+                ]
+            },
+            "subsystem": "S_GlycolysisGluconeogenesis",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "",
+            "id": "PIt",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "pi_c": -1.0,
+                "pi_e": 1.0
+            },
+            "name": "R_Inorganic_phosphate_exchange__diffusion",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "subsystem": "S_Transport__Extracellular",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "b3956",
+            "id": "PPC",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "co2_c": -1.0,
+                "h2o_c": -1.0,
+                "h_c": 1.0,
+                "oaa_c": 1.0,
+                "pep_c": -1.0,
+                "pi_c": 1.0
+            },
+            "name": "R_phosphoenolpyruvate_carboxylase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "b3956"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "Ppc"
+                ],
+                "PROTEIN CLASS": [
+                    "4.1.1.31"
+                ]
+            },
+            "subsystem": "S_Anaplerotic_reactions",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "b3403",
+            "id": "PPCK",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "adp_c": 1.0,
+                "atp_c": -1.0,
+                "co2_c": 1.0,
+                "oaa_c": -1.0,
+                "pep_c": 1.0
+            },
+            "name": "R_phosphoenolpyruvate_carboxykinase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "b3403"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "Pck"
+                ],
+                "PROTEIN CLASS": [
+                    "4.1.1.49"
+                ]
+            },
+            "subsystem": "S_Anaplerotic_reactions",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "b1702",
+            "id": "PPS",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "amp_c": 1.0,
+                "atp_c": -1.0,
+                "h2o_c": -1.0,
+                "h_c": 2.0,
+                "pep_c": 1.0,
+                "pi_c": 1.0,
+                "pyr_c": -1.0
+            },
+            "name": "R_phosphoenolpyruvate_synthase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "b1702"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "Ppsa"
+                ],
+                "PROTEIN CLASS": [
+                    "2.7.9.2"
+                ]
+            },
+            "subsystem": "S_GlycolysisGluconeogenesis",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "b2297",
+            "id": "PTAr",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "accoa_c": -1.0,
+                "actp_c": 1.0,
+                "coa_c": 1.0,
+                "pi_c": -1.0
+            },
+            "name": "R_phosphotransacetylase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "b2297"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "Pta"
+                ],
+                "PROTEIN CLASS": [
+                    "2.3.1.8"
+                ]
+            },
+            "subsystem": "S_Pyruvate_Metabolism",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "( b1854  and  b1676 )",
+            "id": "PYK",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "adp_c": -1.0,
+                "atp_c": 1.0,
+                "h_c": -1.0,
+                "pep_c": -1.0,
+                "pyr_c": 1.0
+            },
+            "name": "R_pyruvate_kinase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "( b1854  and  b1676 )"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "( Pyka and Pykf )"
+                ],
+                "PROTEIN CLASS": [
+                    "2.7.1.40"
+                ]
+            },
+            "subsystem": "S_GlycolysisGluconeogenesis",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "",
+            "id": "PYRt2r",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "h_c": 1.0,
+                "h_e": -1.0,
+                "pyr_c": 1.0,
+                "pyr_e": -1.0
+            },
+            "name": "R_pyruvate_reversible_transport_via_proton_symport",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN ASSOCIATION": [
+                    ""
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "subsystem": "S_",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "b3386",
+            "id": "RPE",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "ru5p_D_c": -1.0,
+                "xu5p_D_c": 1.0
+            },
+            "name": "R_ribulose_5_phosphate_3_epimerase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "b3386"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "Rpeec"
+                ],
+                "PROTEIN CLASS": [
+                    "5.1.3.1"
+                ]
+            },
+            "subsystem": "S_Pentose_Phosphate_Pathway",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "( b2914  or  b4090 )",
+            "id": "RPI",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "r5p_c": -1.0,
+                "ru5p_D_c": 1.0
+            },
+            "name": "R_ribose_5_phosphate_isomerase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "( b2914  or  b4090 )"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "( RpiA ) or ( RpiB )"
+                ],
+                "PROTEIN CLASS": [
+                    "5.3.1.6"
+                ]
+            },
+            "subsystem": "S_Pentose_Phosphate_Pathway",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "b3528",
+            "id": "SUCCt2_2",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "h_c": 2.0,
+                "h_e": -2.0,
+                "succ_c": 1.0,
+                "succ_e": -1.0
+            },
+            "name": "R_succinate_transport_via_proton_symport__2_H_",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "b3528"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "DctA"
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "subsystem": "S_",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "b0621",
+            "id": "SUCCt2b",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "h_c": -1.0,
+                "h_e": 1.0,
+                "succ_c": -1.0,
+                "succ_e": 1.0
+            },
+            "name": "R_Succinate_efflux_via_proton_symport",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "b0621"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "DcuC"
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "subsystem": "S_",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "( b0721  and  b0722  and  b0723  and  b0724 )",
+            "id": "SUCD1i",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "fad_c": -1.0,
+                "fadh2_c": 1.0,
+                "fum_c": 1.0,
+                "succ_c": -1.0
+            },
+            "name": "R_succinate_dehydrogenase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "( b0721  and  b0722  and  b0723  and  b0724 )"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "Sdh"
+                ],
+                "PROTEIN CLASS": [
+                    "1.3.99.1"
+                ]
+            },
+            "subsystem": "S_Citric_Acid_Cycle",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "( b0721  and  b0722  and  b0723  and  b0724 )",
+            "id": "SUCD4",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "fad_c": 1.0,
+                "fadh2_c": -1.0,
+                "q8_c": -1.0,
+                "q8h2_c": 1.0
+            },
+            "name": "R_succinate_dehyrdogenase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "( b0721  and  b0722  and  b0723  and  b0724 )"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "Sdh"
+                ],
+                "PROTEIN CLASS": [
+                    ""
+                ]
+            },
+            "subsystem": "S_Oxidative_Phosphorylation",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "( b0728  and  b0729 )",
+            "id": "SUCOAS",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "adp_c": 1.0,
+                "atp_c": -1.0,
+                "coa_c": -1.0,
+                "pi_c": 1.0,
+                "succ_c": -1.0,
+                "succoa_c": 1.0
+            },
+            "name": "R_succinyl_CoA_synthetase__ADP_forming_",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "( b0728  and  b0729 )"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "SucC"
+                ],
+                "PROTEIN CLASS": [
+                    "6.2.1.5"
+                ]
+            },
+            "subsystem": "S_Citric_Acid_Cycle",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "b0008",
+            "id": "TALA",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "e4p_c": 1.0,
+                "f6p_c": 1.0,
+                "g3p_c": -1.0,
+                "s7p_c": -1.0
+            },
+            "name": "R_transaldolase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "b0008"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "TalB"
+                ],
+                "PROTEIN CLASS": [
+                    "2.2.1.2"
+                ]
+            },
+            "subsystem": "S_Pentose_Phosphate_Pathway",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "( b1602  and  b1603 )",
+            "id": "THD2",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "h_c": 2.0,
+                "h_e": -2.0,
+                "nad_c": 1.0,
+                "nadh_c": -1.0,
+                "nadp_c": -1.0,
+                "nadph_c": 1.0
+            },
+            "name": "R_NAD_P__transhydrogenase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "( b1602  and  b1603 )"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "Pnt"
+                ],
+                "PROTEIN CLASS": [
+                    "1.6.1.1"
+                ]
+            },
+            "subsystem": "S_Oxidative_Phosphorylation",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "( b2935  or  b2465 )",
+            "id": "TKT1",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "g3p_c": 1.0,
+                "r5p_c": -1.0,
+                "s7p_c": 1.0,
+                "xu5p_D_c": -1.0
+            },
+            "name": "R_transketolase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "( b2935  or  b2465 )"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "( TktA ) or ( TktB )"
+                ],
+                "PROTEIN CLASS": [
+                    "2.2.1.1"
+                ]
+            },
+            "subsystem": "S_Pentose_Phosphate_Pathway",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "( b2935  or  b2465 )",
+            "id": "TKT2",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "e4p_c": -1.0,
+                "f6p_c": 1.0,
+                "g3p_c": 1.0,
+                "xu5p_D_c": -1.0
+            },
+            "name": "R_transketolase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "( b2935  or  b2465 )"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "( TktA ) or ( TktB )"
+                ],
+                "PROTEIN CLASS": [
+                    "2.2.1.1"
+                ]
+            },
+            "subsystem": "S_Pentose_Phosphate_Pathway",
+            "upper_bound": 999999.0
+        },
+        {
+            "gene_reaction_rule": "b3919",
+            "id": "TPI",
+            "lower_bound": -999999.0,
+            "metabolites": {
+                "dhap_c": -1.0,
+                "g3p_c": 1.0
+            },
+            "name": "R_triose_phosphate_isomerase",
+            "notes": {
+                "GENE ASSOCIATION": [
+                    "b3919"
+                ],
+                "PROTEIN ASSOCIATION": [
+                    "Tpi"
+                ],
+                "PROTEIN CLASS": [
+                    "5.3.1.1"
+                ]
+            },
+            "subsystem": "S_GlycolysisGluconeogenesis",
+            "upper_bound": 999999.0
+        }
+    ],
+    "version": "1"
+}

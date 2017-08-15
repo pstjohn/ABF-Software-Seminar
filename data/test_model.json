@@ -1,0 +1,118 @@
+{
+    "compartments": {},
+    "genes": [],
+    "id": "test",
+    "metabolites": [
+        {
+            "compartment": "",
+            "id": "adp",
+            "name": ""
+        },
+        {
+            "compartment": "",
+            "id": "atp",
+            "name": ""
+        },
+        {
+            "compartment": "",
+            "id": "co2",
+            "name": ""
+        },
+        {
+            "compartment": "",
+            "formula": "C6H11O9P",
+            "id": "g6p",
+            "name": "D-Glucose 6-phosphate"
+        },
+        {
+            "compartment": "",
+            "formula": "C6H12O6",
+            "id": "glc",
+            "name": "D-Glucose"
+        },
+        {
+            "compartment": "",
+            "formula": "C3H2O6P",
+            "id": "pep",
+            "name": "Phosphoenolpyruvate"
+        },
+        {
+            "compartment": "",
+            "formula": "C3H3O3",
+            "id": "pyr",
+            "name": "Pyruvate"
+        }
+    ],
+    "reactions": [
+        {
+            "gene_reaction_rule": "",
+            "id": "EX_co2",
+            "lower_bound": -1000.0,
+            "metabolites": {
+                "co2": -1
+            },
+            "name": " exchange",
+            "upper_bound": 1000.0
+        },
+        {
+            "gene_reaction_rule": "",
+            "id": "EX_glc",
+            "lower_bound": -10,
+            "metabolites": {
+                "glc": -1
+            },
+            "name": "D-Glucose exchange",
+            "upper_bound": 1000.0
+        },
+        {
+            "gene_reaction_rule": "",
+            "id": "GLCpts",
+            "lower_bound": 0,
+            "metabolites": {
+                "g6p": 1.0,
+                "glc": -1.0,
+                "pep": -1.0,
+                "pyr": 1
+            },
+            "name": "D-glucose transport via PEP:Pyr PTS",
+            "upper_bound": 1000
+        },
+        {
+            "gene_reaction_rule": "",
+            "id": "atpm",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "adp": 1,
+                "atp": -1
+            },
+            "name": "",
+            "upper_bound": 1000.0
+        },
+        {
+            "gene_reaction_rule": "",
+            "id": "lwg",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "adp": -3,
+                "atp": 3,
+                "co2": 3,
+                "pyr": -1
+            },
+            "name": "",
+            "upper_bound": 1000.0
+        },
+        {
+            "gene_reaction_rule": "",
+            "id": "upg",
+            "lower_bound": 0.0,
+            "metabolites": {
+                "g6p": -1,
+                "pep": 1,
+                "pyr": 1
+            },
+            "name": "",
+            "upper_bound": 1000.0
+        }
+    ],
+    "version": "1"
+}
